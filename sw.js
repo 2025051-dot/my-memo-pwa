@@ -1,4 +1,3 @@
-sw.js
 const CACHE_NAME = 'memo-pwa-v1';
 const ASSETS = [
   './',
